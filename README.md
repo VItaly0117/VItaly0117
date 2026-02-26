@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer (.NET / React) 🚀
 
-I am a Full-Stack Software Engineer with a background in Applied Physics[cite: 6], passionate about merging complex algorithms with clean architecture.My main focus is backend development using C# and .NET 8 , but I also confidently build user interfaces with modern frontend frameworks.
+I am a Full-Stack Software Engineer with a background in Applied Physics, passionate about merging complex algorithms with clean architecture.My main focus is backend development using C# and .NET 8 , but I also confidently build user interfaces with modern frontend frameworks.
 
 ---
 
