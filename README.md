@@ -1,8 +1,8 @@
 # Hi there, I'm Vitalii Kalinichenko! 👋
 
-### Full-Stack Software Engineer (.NET / React / Vue) 🚀
+### Full-Stack Software Engineer (.NET / React) 🚀
 
-[cite_start]I am a Full-Stack Software Engineer with a background in Applied Physics[cite: 6], passionate about merging complex algorithms with clean architecture. [cite_start]My main focus is backend development using C# and .NET 8 [cite: 6][cite_start], but I also confidently build user interfaces with modern frontend frameworks[cite: 7].
+I am a Full-Stack Software Engineer with a background in Applied Physics[cite: 6], passionate about merging complex algorithms with clean architecture.My main focus is backend development using C# and .NET 8 , but I also confidently build user interfaces with modern frontend frameworks.
 
 ---
 
@@ -17,17 +17,13 @@
 
 ### 🛠️ My Tech Stack:
 
-* [cite_start]**Languages:** C#, TypeScript, JavaScript (ES6+), Python [cite: 11]
-* [cite_start]**Backend:** .NET 8, ASP.NET Core, REST APIs, Entity Framework Core, LINQ [cite: 13]
-* [cite_start]**Frontend:** React.js, Vue.js, Blazor, HTML5, Tailwind CSS, Bootstrap [cite: 19]
-* [cite_start]**Databases & Caching:** PostgreSQL, Microsoft SQL Server, Redis [cite: 21]
-* [cite_start]**Architecture & DevOps:** Clean Architecture, SOLID, Docker, GitHub Actions (CI/CD) [cite: 15, 23]
+* **Languages:** C#, TypeScript, JavaScript (ES6+), Python
+* **Backend:** .NET 8, ASP.NET Core, REST APIs, Entity Framework Core, LINQ
+* **Frontend:** React.js, Vue.js, Blazor, HTML5, Tailwind CSS, Bootstrap
+* **Databases & Caching:** PostgreSQL, Microsoft SQL Server, Redis 
+* **Architecture & DevOps:** Clean Architecture, SOLID, Docker, GitHub Actions (CI/CD)
 
 ---
 
 ### 📫 How to reach me:
-* [cite_start]**Email:** kalinichenko.vitalii123@gmail.com [cite: 4]
-* **LinkedIn:** [Insert your LinkedIn URL here]
-
----
-[cite_start]⚡ *Fun fact: I am deeply passionate about performance optimization and algorithmic problem-solving[cite: 8], and I enjoy writing mechanics simulations using VPython!*
+* [cite_start]**Email:** kalinichenko.vitalii123@gmail.com
