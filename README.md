@@ -9,7 +9,6 @@ I am a Full-Stack Software Engineer with a background in Applied Physics, passio
 ### 🔭 What I'm currently working on:
 * 🌐 **Currently building a personal website and portfolio using TypeScript.**
 * 🎓 Bridging my academic studies in Applied Physics with professional software development.
-* 💻 Developing **PhysSim AI** — a project focused on generating 3D visualizations of physics problems from text descriptions using AI.
 * 🎮 Exploring game development with Unity (participant in the Global Game Jam).
 * 🌌 Proud participant in the **NASA Space Apps Challenge**.
 
