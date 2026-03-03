@@ -26,4 +26,4 @@ I am a Full-Stack Software Engineer with a background in Applied Physics, passio
 ---
 
 ### 📫 How to reach me:
-* [cite_start]**Email:** kalinichenko.vitalii123@gmail.com
+* **Email:** kalinichenko.vitalii123@gmail.com
