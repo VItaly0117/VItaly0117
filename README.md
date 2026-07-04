@@ -46,6 +46,6 @@ PostgreSQL · Docker · SQL
 
 ### 📫 Reach me
 
-kalinichenko.vitalii123@gmail.com · [LinkedIn](#) <!-- add your LinkedIn URL here -->
+kalinichenko.vitalii123@gmail.com · [LinkedIn](www.linkedin.com/in/віталій-калініченко-7a0321358) <!-- add your LinkedIn URL here -->
 
 Looking for a fully remote Junior Python/Backend or Junior .NET role.
